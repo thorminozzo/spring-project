@@ -1,0 +1,1 @@
+Projeto de estudo utilizando Java Spring - 21. usei padrão de camadas Rest para construir uma API que me retorna uma lista de jogo. Utilizei H2 para fazer os testes locais e o Postgres para fazer homologação. Subi um ambiente local utilizando Docker Compose, processo de CI/CD integrado no Railway.
